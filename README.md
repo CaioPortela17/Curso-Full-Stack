@@ -1,2 +1,2 @@
 # Curso-Full-Stack
-Curso da Digital College em que estou fazendo
+Curso de Full Stack da Digital College
