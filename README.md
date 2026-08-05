@@ -11,6 +11,9 @@ Este repositório reúne grande parte do meu **portfólio**, mostrando minha evo
 * JavaScript
 * Git
 * APIs
+
+## ⚛️ Em andamento
+
 * React
 
 ## 💻 Sobre o repositório
